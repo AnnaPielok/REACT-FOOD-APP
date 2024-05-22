@@ -21,3 +21,17 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+# Ignore Windows system directories
+/Cookies/
+/Dane aplikacji/
+/Menu Start/
+/Moje dokumenty/
+/NetHood/
+/PrintHood/
+/Recent/
+/SendTo/
+/Szablony/
+/Ustawienia lokalne/
+
